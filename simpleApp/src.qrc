@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/src">
+        <file>软件小妹二维码.jpg</file>
+    </qresource>
+</RCC>
